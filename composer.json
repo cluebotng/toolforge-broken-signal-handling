@@ -1,0 +1,12 @@
+{
+    "name": "cluebotng/toolforge-broken-signal-handling",
+    "require": {
+        "ext-pcntl": "*"
+    },
+    "config": {
+        "platform": {
+            "php": "8.4"
+        }
+    },
+    "license": "GNU General Public License"
+}
